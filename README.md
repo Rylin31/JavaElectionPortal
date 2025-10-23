@@ -1,1 +1,1 @@
-# JavaQuizApp
+# JavaElectionPortal
